@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-# What Is GuestSneezeOS?
-GuestSneezeOS Is An Operating System For Gamers World Wide Who Is Like Me And Doesn't Have A Steam Deck (You Can Use HoloISO Its Like The Hackintosh Of SteamOS But Later). GuestSneezeOS Offers Many Essential Apps Such As "Steam","Discord","BalenaEtcher" And More, All Distro's Comes In Various Different Shapes And Sizes Unlike Most Gaming Distro's Such As [Nobara](https://nobaraproject.org/), [ChimeraOS](https://chimeraos.org/) ,[HoloISO](https://github.com/holoiso-eol/holoiso) And Bazzite These Distro's Are Great And Amazing I Actually Use These In My Daily Life But You Can See An OS Comparison By Clicking [Here](#comparison). The Best Thing About GuestSneezeOS Is Its Low System Requirements Such As Unlike Bazzite That Requires 50+ GB Our OS Requires Only 11 GB 
 # Contribution
 - You Can Contribute To The Project By Forking The GuestSneezeOS Repo And Editing Stuff And Make A Pull Request
 - Do Some Fun Facts About GuestSneezeOS Or Screenshots Of It For Your Pull Request To Be Seen More
@@ -16,9 +13,9 @@ GuestSneezeOS Is An Operating System For Gamers World Wide Who Is Like Me And Do
 # Comparison
 |Distro Name                        |GuestSneezeOS       | ChimeraOS          | SteamOS 3.x        | HoloISO           |Nobara            |Bazzite           |
 | --------------------------------- |--------------------| ------------------ | ------------------ | ------------------|------------------|------------------|
-| Based on                          |Debian 12 & 13      | Arch Linux         | Arch Linux         | Arch Linux        | Fedora Linux     | Fedora Atomic    |
-| Desktop                           |Cinnamon            | Gnome              | KDE Plasma         | KDE Plasma        | KDE Plasma       | Gnome/KDE Plasma |
-| Distro Size                       |11 GB,2 GB Ram      |20 GB,4+GB          |32 GB HDD,4 GB+ RAM |20 GB,4 GB RAM     |20 GB,2 GB RAM    |50 GB,4+ GB RAM   |
+| Based on                          |SteamOS 3.5         | Arch Linux         | Arch Linux         | SteamOS 3 ^ 3.5   | Fedora Linux     | Fedora Atomic    |
+| Desktop                           |KDE Plasma          | Gnome              | KDE Plasma         | KDE Plasma        | KDE Plasma       | Gnome/KDE Plasma |
+| Distro Size                       |11 GB,2 GB Ram      |20 GB,4+GB          |32 GB NVME,4 GB+ RAM|20 GB,4 GB RAM     |20 GB,2 GB RAM    |50 GB,4+ GB RAM   |
 | Atomic updates                    |✔️                  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:|:x:               |:heavy_check_mark:|
 | Read-write root filesystem        |✔️                  | :x:                | :x:                | :x:               |:heavy_check_mark:|:x:               |
 | Custom partitioning               |✔️                  | :x:                | :x:                | :x:               |:heavy_check_mark:|:x:               |
@@ -26,9 +23,9 @@ GuestSneezeOS Is An Operating System For Gamers World Wide Who Is Like Me And Do
 | Up-to-date base packages          |✔️                  | :heavy_check_mark: | :x:                | :x:               |:heavy_check_mark:|:heavy_check_mark:|
 | Remote app installation           |✔️                  | :heavy_check_mark: | :x:                | :x:               |:heavy_check_mark:|:x:               |
 | Built-in EGS & GOG support        |✔️                  | :heavy_check_mark: | :x:                | :x:               |                  |:heavy_check_mark:|
-| Built-in emulation support        |✔️ 8.10 Release     | :heavy_check_mark: | :x:                | :x:               |                  |:x:               |
+| Built-in emulation support        |✔️                  | :heavy_check_mark: | :x:                | :x:               |                  |:x:               |
 | Additional game tweaks            |:x:                 | :heavy_check_mark: | :x:                | :x:               |                  |:heavy_check_mark:|
 | Additional artwork                |:x:                 | :heavy_check_mark: | :x:                | :x:               |                  |:x:               |
 | Built-in GE Proton                |✔️                  | :heavy_check_mark: | :x:                | :x:               |:heavy_check_mark:|:heavy_check_mark:|
-| Full source publicly hosted       |:x:                 | :heavy_check_mark: | :x:                | :x:               |:heavy_check_mark:|:heavy_check_mark:|
+| Full source publicly hosted       |✔️                  | :heavy_check_mark: | :x:                | :x:               |:heavy_check_mark:|:heavy_check_mark:|
 | Uses LFS (Linux From Scratch)     |:x:                 | :x:                | :x:                | :x:               | :x:              | :x:              |
