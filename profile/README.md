@@ -20,4 +20,5 @@
 | Uses LFS (Linux From Scratch)     |:x:                 | :x:                | :x:                | :x:                | :x:              |
 | Uses WinesapOS repositories       |✔️                  | :x:                | :x:                | :x:                | :x:              |
 | Uses SteamOS repositories         |✔️                  |                    | :heavy_check_mark: | ✔️                 | :x:              |
-| A custom Archiso profile          | ✔️                 | :x:                | :x:                | ✔️                 | :x:
+| A custom Archiso profile          | ✔️                 | :x:                | :x:                | ✔️                 | :x:              |
+| Support                           | ✔️                 | :heavy_check_mark: | :x: (Hardware not OS) | ✔️              | ✔️              |
