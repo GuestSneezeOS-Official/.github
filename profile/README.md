@@ -4,7 +4,7 @@
 | --------------------------------- |--------------------| ------------------ | ------------------ | ------------------|------------------|
 | Based on                          |SteamOS 3.5         | Arch Linux         | Arch Linux         | SteamOS 3 & 3.5   | Fedora Atomic    |
 | Desktop                           |KDE Plasma          | Gnome              | KDE Plasma         | KDE Plasma        | Gnome/KDE Plasma |
-| Distro Size                       |11 GB,2 GB Ram      |20 GB,4+GB          |32 GB NVME,4 GB+ RAM|20 GB,4 GB RAM     |50 GB,4+ GB RAM   |
+| Distro Size                       |20 GB,1.9 GB Ram      |20 GB,4+GB          |32 GB NVME,4 GB+ RAM|20 GB,4 GB RAM     |50 GB,4+ GB RAM   |
 | Atomic updates                    |✔️                  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark:|
 | Read-write root filesystem        |:x:                 | :x:                | :x:                | :x:               |:x:               |
 | Custom partitioning               |:x:                 | :x:                | :x:                | :x:               |:x:               |
